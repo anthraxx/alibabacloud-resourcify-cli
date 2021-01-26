@@ -6,7 +6,7 @@ exports.cmdObj = {
     en: `Alibaba Cloud Resourcify CLI, used for operate resources of cloud service`
   },
   sub: {
-    cs: {
+    ack: {
       zh: '容器服务',
       en: `Container Service for Kubernetes`
     }

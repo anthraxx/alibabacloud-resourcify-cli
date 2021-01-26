@@ -6,4 +6,4 @@
 
 const { run } = require('../lib/run.js');
 
-run('arc-cs','cmds/meta/arc/cs');
+run('arc-ack','cmds/meta/arc/ack');
